@@ -13,6 +13,7 @@ ___
         <li><a href="http://htmlbook.ru/html5">HTML5</a></li>
         <li><a href="https://html5book.ru/css-css3/">CSS3</a></li>
         <li><a href="https://learn.javascript.ru/">JavaScript</a></li>
+        <li><a href="https://git-scm.com/">Git</a></li>
         <li><a href="https://code.visualstudio.com/">VisualStudioCode</a></li>
         <li><a href="https://www.jetbrains.com/ru-ru/webstorm/">WebStorm</a></li>
     </ul>
