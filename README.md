@@ -2,9 +2,9 @@
 
 <ul>
     <li>👩  I’m Kate Guleshova</li>
-    <li>🤝  I'm looking for a job as a frontend developer</li>
-    <li>📚  I am constantly learning new things</li> 
-    <li>🗺️  I’m interested in the organization of space and travel</li>
+    <li>🤝  I’m looking for a job as a frontend developer</li>
+    <li>📚  I’m constantly learning new things</li> 
+    <li>🗺️  I’m interested in decluttering and organizing home and also I like to travel to old historical landmarks</li>
     
 </ul>
 ___
