@@ -21,7 +21,7 @@ ___
 
 <h3><b>📱 Contact With Me:</b></h3>
     <ul>
-        <li><a href ="linkedin.com/in/kate-guleshova-334305241">Linkedin</a></li>
+        <li><a href ="https://www.linkedin.com/in/kateguleshova/>Linkedin</a></li>
         <li><a href ="https://t.me/gulkat">Telegram</a></li>
         <li><a href ="https://www.instagram.com/9ulka/">Instagram</a></li>
     </ul>
