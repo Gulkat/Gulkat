@@ -23,5 +23,4 @@ ___
     <ul>
         <li><a href ="https://www.linkedin.com/in/kateguleshova/">Linkedin</a></li>
         <li><a href ="https://t.me/gulkat">Telegram</a></li>
-        <li><a href ="https://www.instagram.com/9ulka/">Instagram</a></li>
     </ul>
